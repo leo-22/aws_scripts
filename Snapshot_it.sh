@@ -8,7 +8,7 @@ VOLUMES_LIST=/temp/volumes-list
 SNAPSHOT_INFO=/temp/snapshot_info
 DATE=`date +%Y-%m-%d`
 REGION="us-east-1"
-OID="181218121805"
+OID="12345678910111213"
 
 # Snapshots Retention Period for each volume snapshot
 RETENTION=6
