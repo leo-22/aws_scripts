@@ -16,7 +16,7 @@ RETENTION=6
 SNAP_CREATION=/temp/snap_creation
 SNAP_DELETION=/temp/snap_deletion
 
-EMAIL_LIST=leo.claus@sbsplanet.com
+EMAIL_LIST=leo.claus@
 
 sudo echo "List of Snapshots Creation Status" > $SNAP_CREATION
 sudo echo "List of Snapshots Deletion Status" > $SNAP_DELETION
